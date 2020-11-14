@@ -17,7 +17,3 @@ Nie każdy kod musi powstać, nie każdy feature dostarcza prawdziwą wartość.
 # Odcinki
 
 ...
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
