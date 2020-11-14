@@ -6,5 +6,6 @@ aux_links:
     - "https://bettersoftwaredesign.pl"
   "YouTube":
     - "https://www.youtube.com/c/MariuszGil"
+aux_links_new_tab: true
 footer_content: "Copyright &copy; 2020 Mariusz Gil, Better Software Design."
 
