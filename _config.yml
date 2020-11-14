@@ -1,4 +1,5 @@
 title: "Domain Explorers"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
 search_enabled: false
+footer_content: "Copyright &copy; 2020 Mariusz Gil, Better Software Design."
+
