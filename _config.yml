@@ -1,5 +1,10 @@
 title: "Domain Explorers"
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
+aux_links:
+  "Podcast":
+    - "https://bettersoftwaredesign.pl"
+  "YouTube":
+    - "https://www.youtube.com/c/MariuszGil"
 footer_content: "Copyright &copy; 2020 Mariusz Gil, Better Software Design."
 
