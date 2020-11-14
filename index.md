@@ -12,7 +12,7 @@ Nie każdy kod musi powstać, nie każdy feature dostarcza prawdziwą wartość.
 
 # Trailers
 
-...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ae2eSW3BiXI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Odcinki
 
