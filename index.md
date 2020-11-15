@@ -16,10 +16,10 @@ Nie każdy kod musi powstać, nie każdy feature dostarcza prawdziwą wartość.
 
 # Odcinki
 
-### Epizod 1: Zapowiedź #1
+## Epizod 1: Zapowiedź #1
 
 {% include youtube.html id='ae2eSW3BiXI' %}
 
-### Epizod 2: Zapowiedź #2
+## Epizod 2: Zapowiedź #2
 
 {% include youtube.html id='s7PBrsKSw8c' %}
