@@ -12,13 +12,13 @@ Nie każdy kod musi powstać, nie każdy feature dostarcza prawdziwą wartość.
 
 # O projekcie
 
-##### Na początek...
+### Na początek...
 
 Pomysł na tę serię powstał jakiś czas temu. W odpowiedzi na bardzo często powtarzające się pytania o EventStorming czy podejście DDD. A także w odpowiedzi na proste, czasem zbyt proste przykłady, które można znaleźć w Internecie, a których znów tak dużo też nie ma... 
 
 Domain Explorers będzie więc przejściem przez cały proces analizy i modelowania prawdziwej domeny, do której możesz się odnieść bez większego problemu. 
 
-##### Jak to będzie wyglądać?
+### Jak to będzie wyglądać?
 
 W kolejnych odcinkach Domain Explorers będziemy przechodzić poszczególne etapy procesu, dotykając przy tym różnych technik analitycznych i programistycznych. Na pewno pojawi się tu więc Domain Drivenn Design, zarówno na poziomie strategicznym jak i taktycznym, czy EventStorming, który całkowicie przemodelował moje podejście do tworzenia oprogramowania. 
 
@@ -26,7 +26,7 @@ Seria będzie pojawiać się zarówno na [kanale YouTube](https://www.youtube.co
 
 I teraz najważniejsze...
 
-##### Twoja rola w tym wszystkim
+### Twoja rola w tym wszystkim
 
 Jak już wspomniałem w trailerze, chcę aby to TWOJA osoba była w cetrum tego projektu i aby po TWOJEJ stronie wydarzyło się sporo ciekawych rzeczy. Nawet jeśli niektóre hasła będą brzmieć nna początku obco, bo nigdy nie było okazji z nich korzystać, lub wcześniejsze próby wdrożenia ich w projekcie się nie powiodły.
 
