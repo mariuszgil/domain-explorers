@@ -41,9 +41,17 @@ Jak już wspomniałem w trailerze, chcę aby to TWOJA osoba była w cetrum tego 
 
 {% include youtube.html id='s7PBrsKSw8c' %}
 
-### Epizod 3: WKRÓTCE...
+### Epizod 3: Rozpoznanie domeny z Big Picture EventStorming
 
-Na kolejne odcinki zapraszam Cię już w grudniu!
+{% include youtube.html id='LqIF_pGI3wk' %}
+
+### Epizod 4: Jak pracować z Miro?
+
+{% include youtube.html id='d3CrtYX2LeI' %}
+
+### Co dalej?
+
+Na kolejne odcinki zapraszam Cię już wkrótce!
 
 # Kontakt
 
