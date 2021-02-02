@@ -17,3 +17,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 # Lista repozytoriów
 
 - [Mariusz Gil](https://github.com/mariuszgil/domain-explorers)
+- [Tomasz Skowroński](https://github.com/hexmind/event-storming-parcel-locker)
