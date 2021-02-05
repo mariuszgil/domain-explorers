@@ -18,3 +18,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 
 - [Mariusz Gil](https://github.com/mariuszgil/domain-explorers)
 - [Tomasz Skowroński](https://github.com/hexmind/event-storming-parcel-locker)
+- [Michał Karolik](https://github.com/michalkarolik/domain-explorers-learning)
