@@ -21,3 +21,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Michał Karolik](https://github.com/michalkarolik/domain-explorers-learning)
 - [Mariusz Wójcik](https://github.com/mwwojcik/mw-domainexplorers)
 - [Grzegorz Perzanowski](https://github.com/GrPe/EventStorming.DomainExplorers)
+- [Adam Zając](https://github.com/Zacad/domain-explorers-fun)
