@@ -24,3 +24,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Adam Zając](https://github.com/Zacad/domain-explorers-fun)
 - [Jan Dziekan](https://github.com/jandzie/domain-parcel-lockers)
 - [Marcin Słowiak](https://github.com/mslowiak/domain-explorers-event_storming)
+- [Maciej Wolf](https://github.com/MaciejWolf/DomainExplorers)
