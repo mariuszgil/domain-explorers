@@ -22,3 +22,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Mariusz Wójcik](https://github.com/mwwojcik/mw-domainexplorers)
 - [Grzegorz Perzanowski](https://github.com/GrPe/EventStorming.DomainExplorers)
 - [Adam Zając](https://github.com/Zacad/domain-explorers-fun)
+- [Marcin Słowiak](https://github.com/mslowiak/domain-explorers-event_storming)
