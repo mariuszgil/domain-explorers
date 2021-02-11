@@ -26,3 +26,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Marcin Słowiak](https://github.com/mslowiak/domain-explorers-event_storming)
 - [Maciej Wolf](https://github.com/MaciejWolf/DomainExplorers)
 - [Łukasz Gątnicki](https://github.com/lukasz-gatnicki/domain-explorers)
+- [Paweł Wenerski](https://github.com/myster04/event-storming-parcel-locker)
