@@ -28,3 +28,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Rafał Pieńkowski](https://github.com/rafalpienkowski/domain-explorers)
 - [Łukasz Gątnicki](https://github.com/lukasz-gatnicki/domain-explorers)
 - [Paweł Wenerski](https://github.com/myster04/event-storming-parcel-locker)
+- [Jakub Ciechowski](https://github.com/jciechowski/domain-explorers)
