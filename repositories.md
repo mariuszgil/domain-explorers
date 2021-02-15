@@ -33,3 +33,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Krzysztof Tutak](https://github.com/ktutak1337/Domain-Explorers)
 - [Grzegorz Stawarczyk](https://github.com/g-stawarczyk/domain-explorers)
 - [Agata Werszler](https://github.com/ag4ta/domain-explorers)
+- [Kamil Kieda](https://github.com/kkieda/domain-explorers)
