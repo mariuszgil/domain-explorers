@@ -49,6 +49,10 @@ Jak już wspomniałem w trailerze, chcę aby to TWOJA osoba była w cetrum tego 
 
 {% include youtube.html id='d3CrtYX2LeI' %}
 
+### Epizod 5: Luty to grudzień...
+
+{% include youtube.html id='eNP8quYJR_I' %}
+
 ### Co dalej?
 
 Na kolejne odcinki zapraszam Cię już wkrótce!
