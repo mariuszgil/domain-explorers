@@ -5,6 +5,7 @@ has_children: false
 ---
 
 # Repozytoria
+
 {: .fs-9 }
 
 Podczas Domain Explorers powstanie kilka artefaktów, np. boardów EventStormingowych, modeli wyjaśniających, map kontekstów i oczywiście kodu. Wszystkie te rzeczy będą dostępne na GitHubie w repozytorium [Domain Explorers](https://github.com/mariuszgil/domain-explorers).
@@ -34,3 +35,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Grzegorz Stawarczyk](https://github.com/g-stawarczyk/domain-explorers)
 - [Agata Werszler](https://github.com/ag4ta/domain-explorers)
 - [Kamil Kieda](https://github.com/kkieda/domain-explorers)
+- [Michał Kruk i Marek Łunkiewicz](https://github.com/docze/Domain-Explorers)
