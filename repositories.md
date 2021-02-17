@@ -38,3 +38,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Michał Kruk i Marek Łunkiewicz](https://github.com/docze/Domain-Explorers)
 - [Ignacy Szreter i Jan Kostrzębski](https://github.com/Lepruz/domain-explorers)
 - [Radosław Wojciechowski](https://github.com/Retrorado/Domain-Explorers)
+- [Paweł Jóźwicki](https://github.com/jpawel/domainexplorers)
