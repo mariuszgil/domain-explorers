@@ -44,3 +44,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Adam Stomski, Bartosz Głowacki, Klaudia Chudy](https://github.com/Adam-Stomski/domain_explorers)
 - [Ruslan Pidhainyi](https://github.com/ruslan-pidhainyi/domain-explorers)
 - [Mateusz Kamiński](https://github.com/kaminskimateusz/DomainExplorers)
+- [Tomasz Szlęk](https://github.com/tomaszszlek/domain-explorers-event-storming)
