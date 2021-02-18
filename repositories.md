@@ -41,3 +41,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Paweł Jóźwicki](https://github.com/jpawel/domainexplorers)
 - [Ekipa LPP ECOM IT](https://github.com/LPPSA/Domain-Explorers)
 - [Paweł Kowalik i Stanisław Zajdel](https://github.com/creyn/domain-explorers)
+- [Adam Stomski, Bartosz Głowacki, Klaudia Chudy](https://github.com/Adam-Stomski/domain_explorers)
