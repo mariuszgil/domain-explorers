@@ -39,4 +39,5 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Ignacy Szreter i Jan Kostrzębski](https://github.com/Lepruz/domain-explorers)
 - [Radosław Wojciechowski](https://github.com/Retrorado/Domain-Explorers)
 - [Paweł Jóźwicki](https://github.com/jpawel/domainexplorers)
+- [Ekipa LPP ECOM IT](https://github.com/LPPSA/Domain-Explorers)
 - [Paweł Kowalik i Stanisław Zajdel](https://github.com/creyn/domain-explorers)
