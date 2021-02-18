@@ -41,4 +41,5 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Paweł Jóźwicki](https://github.com/jpawel/domainexplorers)
 - [Ekipa LPP ECOM IT](https://github.com/LPPSA/Domain-Explorers)
 - [Paweł Kowalik i Stanisław Zajdel](https://github.com/creyn/domain-explorers)
+- [Ruslan Pidhainyi](https://github.com/ruslan-pidhainyi/domain-explorers)
 - [Mateusz Kamiński](https://github.com/kaminskimateusz/DomainExplorers)
