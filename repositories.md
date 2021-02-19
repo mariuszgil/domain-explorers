@@ -45,3 +45,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Ruslan Pidhainyi](https://github.com/ruslan-pidhainyi/domain-explorers)
 - [Mateusz Kamiński](https://github.com/kaminskimateusz/DomainExplorers)
 - [Tomasz Szlęk](https://github.com/tomaszszlek/domain-explorers-event-storming)
+- [Jakub Barczyk && Kacper Werema](https://github.com/snowpl/domain-explorers)
