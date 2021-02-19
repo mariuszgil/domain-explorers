@@ -46,4 +46,5 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Mateusz Kamiński](https://github.com/kaminskimateusz/DomainExplorers)
 - [Tomasz Szlęk](https://github.com/tomaszszlek/domain-explorers-event-storming)
 - [Jakub Barczyk && Kacper Werema](https://github.com/snowpl/domain-explorers)
+- [Michał Daniliszyn](https://github.com/michdan/domain_explorers)
 - [Ernest Staszuk, Marcin Zięba, Wojciech Zięba](https://github.com/erneststaszuk/domain-explorers)
