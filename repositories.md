@@ -51,3 +51,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Ernest Staszuk, Marcin Zięba, Wojciech Zięba](https://github.com/erneststaszuk/domain-explorers)
 - [Monika Młodzik, Łukasz Reszke, Patryk Zieliński, Mateusz Nowak](https://github.com/nowakprojects/domain-explorers)
 - [Rafał Grzegorek](https://github.com/raph007/domain-explorers)
+- [Damian Michalik](https://github.com/damianmichalik/domain-explorers)
