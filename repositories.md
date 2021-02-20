@@ -52,4 +52,4 @@ Jeśli chcesz podzielić się efektem swojej pracy, umieść link do swojego rep
 - [Monika Młodzik, Łukasz Reszke, Patryk Zieliński, Mateusz Nowak](https://github.com/nowakprojects/domain-explorers)
 - [Rafał Grzegorek](https://github.com/raph007/domain-explorers)
 - [Damian Michalik](https://github.com/damianmichalik/domain-explorers)
-- [Arkadiusz Krakowiak](https://github.com/Arminek/domain-explorers)
+- [Arkadiusz Krakowiak](https://github.com/Arminek/DomainExplorers)
